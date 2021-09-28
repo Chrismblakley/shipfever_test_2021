@@ -39,8 +39,8 @@ I am planning to use the map tool for identifying Fort William in Bengal.
 
 Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
-<param ve-map center="Q36600" zoom="11">
+       manifest="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Capture_des_flutes_Alcide_et_Lys_en_1755_pres_de_Louisbourg.jpg/1024px-Capture_des_flutes_Alcide_et_Lys_en_1755_pres_de_Louisbourg.jpg">
+<param ve-map center="Q160649" zoom="11">
 
 # References
 
