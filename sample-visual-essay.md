@@ -23,7 +23,7 @@ This is where I plan to add my introduction text of my visual essay on ship feve
 
 ## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 20th century after the earring worn by the girl portrayed there.[^1]
+This is an image I plan to use of Fort William in Bengal, where the "Black Hole" incident occurred in 1756.[^1]
 <param ve-image 
        label="Fort William, Bengal" 
        description="painting by Jan Van Ryne, 1754" 
@@ -32,8 +32,8 @@ _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by D
 
 ## Map
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+I am planning to use the map tool for identifying Fort William in Bengal.
+<param ve-map center="Q2750027" zoom="11" prefer-geojson>
 
 ## Multiple viewers
 
