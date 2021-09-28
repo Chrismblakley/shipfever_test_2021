@@ -35,12 +35,10 @@ This is an image I plan to use of Fort William in Bengal, where the "Black Hole"
 I am planning to use the map tool for identifying Fort William in Bengal.
 <param ve-map center="Q2750027" zoom="11" prefer-geojson>
 
-## Multiple viewers
+## Plant Specimen
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
-<param ve-image 
-       manifest="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Capture_des_flutes_Alcide_et_Lys_en_1755_pres_de_Louisbourg.jpg/1024px-Capture_des_flutes_Alcide_et_Lys_en_1755_pres_de_Louisbourg.jpg">
-<param ve-map center="Q160649" zoom="11">
+Here I want to show a plant, Eutrochium purpureum, known as feverweed with JSTOR GLobal Plants
+<param ve-plant-specimen eid="Q19848832" max="1">
 
 # References
 
