@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Ship Fever" 
-       banner="https://iiif.juncture-digital.org/banner/?url=https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Thomas-Clarkson-De-kreet-der-Afrikanen_MG_1315.tif/lossless-page1-1059px-Thomas-Clarkson-De-kreet-der-Afrikanen_MG_1315.tif.png" 
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/%27The_slave_ship_Brooks%27_RMG_F0872.tiff/lossy-page1-1280px-%27The_slave_ship_Brooks%27_RMG_F0872.tiff.jpg" 
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
