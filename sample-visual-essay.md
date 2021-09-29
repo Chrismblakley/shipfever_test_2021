@@ -19,6 +19,7 @@ This is where I plan to add my introduction text of my visual essay on ship feve
 
 
 # Ship Fever and Eighteenth-Century Nosology
+<param ve-image fit="cover" manifest="https://commons.wikimedia.org/w/index.php?title=File:Newgate_Prison_Publ_1800.jpg&action=info">
 
 ## Image
 
