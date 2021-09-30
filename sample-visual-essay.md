@@ -17,6 +17,11 @@
 
 This is where I plan to add my introduction text of my visual essay on ship fever.
 
+<param ve-image 
+       label="Black Hole of Calcutta" 
+       description="painting by Jan Van Ryne, 1754" 
+       license="public domain" 
+       url="https://commons.wikimedia.org/wiki/File:Hartes_Schicksal_einniger_Engel%C3%A4nder_in_einem_Gef%C3%A4ngnis_1757.jpg">
 
 # Ship Fever and Eighteenth-Century Nosology
 <param ve-image fit="cover" manifest="https://commons.wikimedia.org/w/index.php?title=File:Newgate_Prison_Publ_1800.jpg&action=info">
